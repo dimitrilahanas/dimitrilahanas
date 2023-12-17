@@ -8,7 +8,7 @@
 
 - Becoming a Software Engineer
 - Developing my own successful game
-- Building a social media community for my creative arts
+- Get better at photography
 
 <h3>Interests</h3>
 
