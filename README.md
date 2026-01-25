@@ -25,6 +25,7 @@ I'm currently studying computer science and building projects to strengthen my s
 - **CSS**
 - **Python**
 - **Java**
+- **SQL**
 
 ---
 
