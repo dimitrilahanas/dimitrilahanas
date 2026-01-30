@@ -21,11 +21,13 @@ I'm currently studying computer science and building projects to strengthen my s
 - **Flutter**
 
 ### Familiar With
-- **HTML**
-- **CSS**
 - **Python**
 - **Java**
 - **SQL**
+
+### Expert At
+- **HTML**
+- **CSS**
 
 ---
 
